@@ -9,11 +9,12 @@
  * @author yanjunli
  */
 
-package com.sg.foundations.basics.core;
+//package com.sg.foundations.basics.core;
 
 public class ABeginning {
 
     public static void main(String[] args) {
+        
         System.out.println("Hello World!");
         System.out.println("Hello from the Guild!");
         System.out.println("Typing code is easier than I thought ...");

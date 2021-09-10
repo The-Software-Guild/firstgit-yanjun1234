@@ -9,7 +9,7 @@
  * @author yanjunli
  */
 
-package com.sg.foundations.basics.core;
+//package com.sg.foundations.basics.core;
 
 public class ProjectGutenberg {
     
